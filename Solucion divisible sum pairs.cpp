@@ -18,5 +18,7 @@ int main()
         }
     }
     cout << contador << endl;
+    cout << "Ricardo Castro Jiménez" << endl;
     return 0;
 }
+
